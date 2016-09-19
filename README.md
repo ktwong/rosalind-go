@@ -1,0 +1,2 @@
+# rosalind-go
+for practice
